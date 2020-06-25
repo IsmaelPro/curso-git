@@ -1,0 +1,13 @@
+F:\documentos\Estudos dev\C#\ws-vs2017\CalculatorParameters\CalculatorParameters\bin\Debug\netcoreapp3.1\CalculatorParameters.exe
+F:\documentos\Estudos dev\C#\ws-vs2017\CalculatorParameters\CalculatorParameters\bin\Debug\netcoreapp3.1\CalculatorParameters.deps.json
+F:\documentos\Estudos dev\C#\ws-vs2017\CalculatorParameters\CalculatorParameters\bin\Debug\netcoreapp3.1\CalculatorParameters.runtimeconfig.json
+F:\documentos\Estudos dev\C#\ws-vs2017\CalculatorParameters\CalculatorParameters\bin\Debug\netcoreapp3.1\CalculatorParameters.runtimeconfig.dev.json
+F:\documentos\Estudos dev\C#\ws-vs2017\CalculatorParameters\CalculatorParameters\bin\Debug\netcoreapp3.1\CalculatorParameters.dll
+F:\documentos\Estudos dev\C#\ws-vs2017\CalculatorParameters\CalculatorParameters\bin\Debug\netcoreapp3.1\CalculatorParameters.pdb
+F:\documentos\Estudos dev\C#\ws-vs2017\CalculatorParameters\CalculatorParameters\obj\Debug\netcoreapp3.1\CalculatorParameters.csprojAssemblyReference.cache
+F:\documentos\Estudos dev\C#\ws-vs2017\CalculatorParameters\CalculatorParameters\obj\Debug\netcoreapp3.1\CalculatorParameters.AssemblyInfoInputs.cache
+F:\documentos\Estudos dev\C#\ws-vs2017\CalculatorParameters\CalculatorParameters\obj\Debug\netcoreapp3.1\CalculatorParameters.AssemblyInfo.cs
+F:\documentos\Estudos dev\C#\ws-vs2017\CalculatorParameters\CalculatorParameters\obj\Debug\netcoreapp3.1\CalculatorParameters.csproj.CoreCompileInputs.cache
+F:\documentos\Estudos dev\C#\ws-vs2017\CalculatorParameters\CalculatorParameters\obj\Debug\netcoreapp3.1\CalculatorParameters.dll
+F:\documentos\Estudos dev\C#\ws-vs2017\CalculatorParameters\CalculatorParameters\obj\Debug\netcoreapp3.1\CalculatorParameters.pdb
+F:\documentos\Estudos dev\C#\ws-vs2017\CalculatorParameters\CalculatorParameters\obj\Debug\netcoreapp3.1\CalculatorParameters.genruntimeconfig.cache

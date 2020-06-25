@@ -1,0 +1,12 @@
+F:\documentos\Estudos dev\C#\ws-vs2017\Primeiro\Primeiro\bin\Debug\netcoreapp2.1\Primeiro.deps.json
+F:\documentos\Estudos dev\C#\ws-vs2017\Primeiro\Primeiro\bin\Debug\netcoreapp2.1\Primeiro.runtimeconfig.json
+F:\documentos\Estudos dev\C#\ws-vs2017\Primeiro\Primeiro\bin\Debug\netcoreapp2.1\Primeiro.runtimeconfig.dev.json
+F:\documentos\Estudos dev\C#\ws-vs2017\Primeiro\Primeiro\bin\Debug\netcoreapp2.1\Primeiro.dll
+F:\documentos\Estudos dev\C#\ws-vs2017\Primeiro\Primeiro\bin\Debug\netcoreapp2.1\Primeiro.pdb
+F:\documentos\Estudos dev\C#\ws-vs2017\Primeiro\Primeiro\obj\Debug\netcoreapp2.1\Primeiro.csprojAssemblyReference.cache
+F:\documentos\Estudos dev\C#\ws-vs2017\Primeiro\Primeiro\obj\Debug\netcoreapp2.1\Primeiro.csproj.CoreCompileInputs.cache
+F:\documentos\Estudos dev\C#\ws-vs2017\Primeiro\Primeiro\obj\Debug\netcoreapp2.1\Primeiro.AssemblyInfoInputs.cache
+F:\documentos\Estudos dev\C#\ws-vs2017\Primeiro\Primeiro\obj\Debug\netcoreapp2.1\Primeiro.AssemblyInfo.cs
+F:\documentos\Estudos dev\C#\ws-vs2017\Primeiro\Primeiro\obj\Debug\netcoreapp2.1\Primeiro.dll
+F:\documentos\Estudos dev\C#\ws-vs2017\Primeiro\Primeiro\obj\Debug\netcoreapp2.1\Primeiro.pdb
+F:\documentos\Estudos dev\C#\ws-vs2017\Primeiro\Primeiro\obj\Debug\netcoreapp2.1\Primeiro.genruntimeconfig.cache

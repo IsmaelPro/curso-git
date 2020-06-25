@@ -1,0 +1,12 @@
+F:\documentos\Estudos dev\C#\ws-vs2017\Primeiro\Course\Course\bin\Debug\netcoreapp2.1\Course.deps.json
+F:\documentos\Estudos dev\C#\ws-vs2017\Primeiro\Course\Course\bin\Debug\netcoreapp2.1\Course.runtimeconfig.json
+F:\documentos\Estudos dev\C#\ws-vs2017\Primeiro\Course\Course\bin\Debug\netcoreapp2.1\Course.runtimeconfig.dev.json
+F:\documentos\Estudos dev\C#\ws-vs2017\Primeiro\Course\Course\bin\Debug\netcoreapp2.1\Course.dll
+F:\documentos\Estudos dev\C#\ws-vs2017\Primeiro\Course\Course\bin\Debug\netcoreapp2.1\Course.pdb
+F:\documentos\Estudos dev\C#\ws-vs2017\Primeiro\Course\Course\obj\Debug\netcoreapp2.1\Course.csprojAssemblyReference.cache
+F:\documentos\Estudos dev\C#\ws-vs2017\Primeiro\Course\Course\obj\Debug\netcoreapp2.1\Course.csproj.CoreCompileInputs.cache
+F:\documentos\Estudos dev\C#\ws-vs2017\Primeiro\Course\Course\obj\Debug\netcoreapp2.1\Course.AssemblyInfoInputs.cache
+F:\documentos\Estudos dev\C#\ws-vs2017\Primeiro\Course\Course\obj\Debug\netcoreapp2.1\Course.AssemblyInfo.cs
+F:\documentos\Estudos dev\C#\ws-vs2017\Primeiro\Course\Course\obj\Debug\netcoreapp2.1\Course.dll
+F:\documentos\Estudos dev\C#\ws-vs2017\Primeiro\Course\Course\obj\Debug\netcoreapp2.1\Course.pdb
+F:\documentos\Estudos dev\C#\ws-vs2017\Primeiro\Course\Course\obj\Debug\netcoreapp2.1\Course.genruntimeconfig.cache

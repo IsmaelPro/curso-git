@@ -1,0 +1,13 @@
+F:\documentos\Estudos dev\C#\ws-vs2017\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\Exercicio.exe
+F:\documentos\Estudos dev\C#\ws-vs2017\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\Exercicio.deps.json
+F:\documentos\Estudos dev\C#\ws-vs2017\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\Exercicio.runtimeconfig.json
+F:\documentos\Estudos dev\C#\ws-vs2017\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\Exercicio.runtimeconfig.dev.json
+F:\documentos\Estudos dev\C#\ws-vs2017\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\Exercicio.dll
+F:\documentos\Estudos dev\C#\ws-vs2017\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\Exercicio.pdb
+F:\documentos\Estudos dev\C#\ws-vs2017\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.csprojAssemblyReference.cache
+F:\documentos\Estudos dev\C#\ws-vs2017\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.AssemblyInfoInputs.cache
+F:\documentos\Estudos dev\C#\ws-vs2017\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.AssemblyInfo.cs
+F:\documentos\Estudos dev\C#\ws-vs2017\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.csproj.CoreCompileInputs.cache
+F:\documentos\Estudos dev\C#\ws-vs2017\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.dll
+F:\documentos\Estudos dev\C#\ws-vs2017\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.pdb
+F:\documentos\Estudos dev\C#\ws-vs2017\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+F:\documentos\Estudos dev\C#\ws-vs2017\ExercicioListas\ExercicioListas\bin\Debug\netcoreapp3.1\ExercicioListas.exe
+F:\documentos\Estudos dev\C#\ws-vs2017\ExercicioListas\ExercicioListas\bin\Debug\netcoreapp3.1\ExercicioListas.deps.json
+F:\documentos\Estudos dev\C#\ws-vs2017\ExercicioListas\ExercicioListas\bin\Debug\netcoreapp3.1\ExercicioListas.runtimeconfig.json
+F:\documentos\Estudos dev\C#\ws-vs2017\ExercicioListas\ExercicioListas\bin\Debug\netcoreapp3.1\ExercicioListas.runtimeconfig.dev.json
+F:\documentos\Estudos dev\C#\ws-vs2017\ExercicioListas\ExercicioListas\bin\Debug\netcoreapp3.1\ExercicioListas.dll
+F:\documentos\Estudos dev\C#\ws-vs2017\ExercicioListas\ExercicioListas\bin\Debug\netcoreapp3.1\ExercicioListas.pdb
+F:\documentos\Estudos dev\C#\ws-vs2017\ExercicioListas\ExercicioListas\obj\Debug\netcoreapp3.1\ExercicioListas.csprojAssemblyReference.cache
+F:\documentos\Estudos dev\C#\ws-vs2017\ExercicioListas\ExercicioListas\obj\Debug\netcoreapp3.1\ExercicioListas.AssemblyInfoInputs.cache
+F:\documentos\Estudos dev\C#\ws-vs2017\ExercicioListas\ExercicioListas\obj\Debug\netcoreapp3.1\ExercicioListas.AssemblyInfo.cs
+F:\documentos\Estudos dev\C#\ws-vs2017\ExercicioListas\ExercicioListas\obj\Debug\netcoreapp3.1\ExercicioListas.csproj.CoreCompileInputs.cache
+F:\documentos\Estudos dev\C#\ws-vs2017\ExercicioListas\ExercicioListas\obj\Debug\netcoreapp3.1\ExercicioListas.dll
+F:\documentos\Estudos dev\C#\ws-vs2017\ExercicioListas\ExercicioListas\obj\Debug\netcoreapp3.1\ExercicioListas.pdb
+F:\documentos\Estudos dev\C#\ws-vs2017\ExercicioListas\ExercicioListas\obj\Debug\netcoreapp3.1\ExercicioListas.genruntimeconfig.cache
